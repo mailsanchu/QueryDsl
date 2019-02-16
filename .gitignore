@@ -9,7 +9,7 @@
 *.iml
 *.iws
 *.eml
-*.xml
+vcs.xml
 
 # Mac
 .DS_Store
